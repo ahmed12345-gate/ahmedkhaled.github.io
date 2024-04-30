@@ -1,0 +1,183 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.cal{
+    font-size:30px;
+    text-align: center;
+}
+.count{
+    font-size:35px;
+    position: relative;
+    left:3px;
+}
+    .mor{
+        color:white;
+        font-size: 30px;
+    }
+    .film{
+        text-align: center;
+    }
+.Heart{
+        background-color:lightskyblue;
+    }
+    #one{
+      border-width:25px;;
+        border-color:red;
+        position: relative;
+        cursor:pointer;
+        text-transform: capitalize;
+        font-size:28px;
+        left:600px;
+bottom:27px;
+    }
+    #one:hover{
+        color:coral;
+    }
+    .two{
+        position: relative;
+     right:579px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    }
+    .three{
+        border:7px solid yellow;
+        font-size:35px;
+        padding:2px;
+    }
+    
+    .four{
+    position: relative;
+     right:510px;
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+    .five{
+        position: relative;
+        right:468px;
+        font-weight:bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .six{
+        position: relative;
+         right:405px;
+         bottom:25px;
+        font-weight:bold; 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .twelve{
+    position: relative;
+    right:510px;
+    bottom:55px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #trail{
+        position:relative;
+        top:35px;
+        color:peru;
+        text-align: center;
+        font-size:37px;
+
+
+    }
+    .film{
+        color:orangered;
+        position:relative;
+        top:40px;
+        text-decoration:underline;
+
+    }
+    #action{
+        border:2px solid white;
+        color:orangered;
+    }
+    .Heart{
+        background-color: teal;
+    }
+    .cal{
+        color:blue;
+        position:relative;
+        top:37px;
+        text-decoration:underline;
+    }
+    .information{
+        border:2px solid ghostwhite;
+        /* font-size:32px; */
+        width:100%;
+        /* border-spacing:25px; */
+    }
+    td{
+        padding:35px;
+        background-color: khaki;
+        border:2px solid khaki;
+        width:25%;
+    }
+    .play{
+        position: relative;
+        top:92px;
+        color:crimson;
+    }
+    #Actor{
+        position: relative;
+        left:38px;
+        text-align:end;
+
+    }
+    #Act{
+        position: relative;
+        left:78px;
+    }
+    #dat{
+        position: relative;
+        
+    }
+    .time{
+        position: relative;
+      }
+    .rat{
+        color:rgb(35, 78, 35);
+    }
+    .det{
+        font-size:35px;
+        position: relative;
+        top:38px;
+        color:darkgrey;
+text-align: center;
+    }
+    .extra{
+        list-style-type: lower-roman;
+        font-size:28px;
+    }
+    #Ques{
+        position: relative;
+        top:25px;
+        color:cornflowerblue;
+    }
+    a:hover{
+        color:darkviolet;
+        cursor: zoom-in;
+    }
+    a:visited{
+        color: goldenrod;
+    }
+    #imag:hover{
+        cursor: zoom-out;
+    }
+    /* #mor{
+    } */
+    .count{
+        position: relative;
+        right:32px;
+    }
+    .count::first-letter{
+        color:navy;
+    }
+.Hed{
+color:forestgreen;
+font-size:24px;
+}
+.Secon{
+    font-size:24px;
+}
