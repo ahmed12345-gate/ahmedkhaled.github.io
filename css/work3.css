@@ -1,0 +1,104 @@
+*{
+    margin:0;
+    padding:0;
+}
+.eleven{    
+    position: relative;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:32px;
+}
+.twelve{
+    position: relative;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:32px;
+    }
+    .inf{
+        position: relative;
+       top:44px;
+        color:sienna;
+        font-size:35px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      text-decoration:underline;
+    }
+    .info{
+        text-transform:lowercase;
+        border:5px solid rgb(108, 165, 108);
+        position: relative;
+        width:100%;
+       font-size:42px;
+    }
+    .bod{
+        background-color:silver;
+    }
+    #action{
+    position:relative;
+    left:550px;
+    color:orange;
+    top:36px;
+    }
+    .ino{
+    position: relative;
+         font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:32px;
+    } 
+    .eight{
+        position: relative;
+         bottom:55px;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:32px;
+    }
+    #seven{
+        border-width:25px;
+        border-color:purple;
+        margin:0px 500px;
+        position: relative;
+        left:102px;
+        bottom:39px;
+        font-size:27px;
+    }
+    #seven:hover{
+        color:gold;
+    }
+    .feed{
+        color:rgb(61, 13, 13);
+    }
+    #trai{
+        color:darkmagenta;
+        position:relative;
+        left:370px;
+    }
+    .pre{
+        font-size:38px;
+        color:gray;
+    }
+    #pic:hover{
+        cursor: zoom-in;
+    }
+  #action{
+        font-size:52px;
+        position: relative;
+    right:50px;
+    text-decoration:underline;
+    }
+    #Doll{
+        border-radius:15px;
+        font-size:34px;
+        color:mediumslateblue;
+        position: relative;
+        top:15px;
+    }
+    .opi1{
+font-size:25px;
+    }
+    .opi{
+        font-size:25px;   
+    }
+    .Ways{
+        color:olivedrab;
+        position:relative;
+    }
